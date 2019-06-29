@@ -32,6 +32,8 @@ products:
       fall in love with in our shop.
   - image: /img/about-jumbotron.jpg
     text: This is one more.
+  - image: /img/about-direct-sourcing.jpg
+    text: ANOTHER!
 values:
   heading: Our values
   text: >-
